@@ -20,7 +20,7 @@ I believe that exceptional software is built on the foundation of clean code and
 
 ---
 
-### Experience (Short version)
+### Experience
 
 **Senior Frontend Developer @ Leroy Merlin** 
 June 2024 – Present | Lisbon, Portugal 
